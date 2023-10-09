@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# MYSPEECH : to record and analyse voice
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About
+## Ref:
+1. https://blog.logrocket.com/how-to-create-video-audio-recorder-react/
+# How to run
+1.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
