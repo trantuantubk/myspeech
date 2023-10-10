@@ -50,8 +50,8 @@ const AudioRecorder = () =>  {
     const stopRecording = () => {
         setRecordingStatus("inactive");
         //stops the recording instance
-        mediaRecorder.stop();
-        mediaRecorder.onStop();
+        mediaRecorder.current.stop();
+        mediaRecorder.current.onStop
     };
     return (
         <div>
